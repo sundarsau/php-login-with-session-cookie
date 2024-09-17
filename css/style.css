@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    margin: 10px 0;
+}
+form{
+    width: 50%;
+    margin: auto;
+    border: 1px solid #cababa;
+    padding: 20px;
+    border-radius: 10px;
+}
+.header{
+    background-color:#116c4d;
+    padding: 20px 0;
+}
+.menu {
+    padding: 0 40px;
+}
+.menu a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    padding: 20px;
+}
+
